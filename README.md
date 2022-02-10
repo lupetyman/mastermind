@@ -46,17 +46,6 @@ Learning goals and areas of focus consisted of:
 - Atom
 - GitHub
 
-### <ins>Contributors</ins>
-
-👤  **Scott Borecki**
-- Github: [Scott-Borecki](https://github.com/Scott-Borecki)
-- LinkedIn: [Scott Borecki](https://www.linkedin.com/in/scott-borecki/)
-
-👤  **Brian Fletcher**
-- Github: [bfl3tch](https://github.com/bfl3tch)
-- LinkedIn: [Brian Fletcher](https://www.linkedin.com/in/bfl3tch)
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
